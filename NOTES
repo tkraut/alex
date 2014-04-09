@@ -1,0 +1,19 @@
+Uloha:
+Pridani info o TV programu
+
+Data: Press dat (TV data)
+SLU:
+    pridat task - 
+
+Kanal, cas, zanr, den, stanice, duration...
+    
+
+Priklady vet
+
+
+TODO:
+bootstrap: vymyslet 100+ vet, jak se ptat na program.
+ -> mapovani na sloty
+
+
+#pripadne nejak udelat implicitni zapominnani, (pridat pocet k hostorii dialogu)
